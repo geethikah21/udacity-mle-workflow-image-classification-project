@@ -2,9 +2,17 @@
 
 This project greatly improved my understanding of AWS Lambda functions, Step Functions, and the ML model development process. I especially enjoyed learning more about the ETL process and implementing the step function workflow.
 
-## Screenshot of Working Step Function
+## Screenshot of Step Function Executions
 
-![Working step function](images/stepfunctions_graph.png)
+### Success Case
+
+![Step function success](images/step_function_success_case.png)
+
+### Failure Case
+
+![Step function failure](images/step_function_failure_case.png)
+
+The threshold used for filtering low confidence inferences was 0.8
 
 ## My Visualization
 
